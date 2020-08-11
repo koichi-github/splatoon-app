@@ -67,11 +67,11 @@ def save_frame_sec(cap, fps, sec, output_dir, last_num):
     時間（秒数）で指定して画像ファイルとして保存
     '''
 
-    source_dir = f"{output_dir}source/"
-    special_dir = f"{output_dir}special/"
-    kill_dir = f"{output_dir}kill/"
-    ally_dir = f"{output_dir}ally/"
-    enemy_dir = f"{output_dir}enemy/"
+    source_dir = f"{output_dir}source/images/"
+    special_dir = f"{output_dir}special/images/"
+    kill_dir = f"{output_dir}kill/images/"
+    ally_dir = f"{output_dir}ally/images/"
+    enemy_dir = f"{output_dir}enemy/images/"
 
     os.makedirs(os.path.dirname(source_dir), exist_ok=True)
     os.makedirs(os.path.dirname(special_dir), exist_ok=True)
