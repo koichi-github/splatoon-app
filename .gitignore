@@ -2,3 +2,4 @@
 /onnx/*.mlmodel
 *.pth
 *.proto
+*.DS_Store
