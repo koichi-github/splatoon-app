@@ -1,0 +1,4 @@
+/detect/
+/onnx/*.mlmodel
+*.pth
+*.proto

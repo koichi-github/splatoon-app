@@ -1,0 +1,6 @@
+data/sample/special/images/img57.png,0
+data/sample/special/images/img44.png,1
+data/sample/special/images/img8.png,0
+data/sample/special/images/img53.png,0
+data/sample/special/images/img3.png,0
+data/sample/special/images/img24.png,1

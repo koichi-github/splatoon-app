@@ -1,0 +1,769 @@
+{
+    "name": "splatoon sample special",
+    "securityToken": "splatoon sample special Token",
+    "sourceConnection": {
+        "name": "splatoon_sample",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDYxODhhYmIyZTdkYTUwMDI2YjQxMzMyZTI2MGZlYmQ2MTMzMWM3NTU1ZTE0NGI5ZGM1MTNlNmRmNjAxZTVjNjJlOTY5ZmIwZWNlNDI4OTE4NTNlZDY5NjVlMjRmMGViOGNmMTZmZDE3NWE1YWI4ZDBmMDhlNzFhNjMxY2IyOGRhNzA5Y2Q2NDIzZTA0OWFlN2FjMTY0NGFkNmE0MDgzMyIsIml2IjoiYmFlOWEyOTE0NWI5OTQ0NDZmN2Q5MWI1YThlMmY3NzgzNjEyMTU0YjM2NzkzYTFiIn0="
+        },
+        "id": "fdv9QewvQ"
+    },
+    "targetConnection": {
+        "name": "splatoon sample special output",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiY2NhZmU4OWUxMmZkNWU0YjM3MGZiMmNkN2UxOWI1MmE0ZTM1YWMzZTI2YWEzODM5OTg4ZmJiZGUzOWI3YjY0NzQ1Zjg2NTQzMGJlZTJlYmI3OTQ4OTJlNTE1ZDYyNDg0N2FkYjFhOGVhZTNlZTgxNDYyMzcwNWZmNWM1YWU3NGI1YjkwMTc2ZjMwNTAzY2RlZTQ2Y2U2YTAyN2Q5NGJmMSIsIml2IjoiYjExZmEyYmM2NmEzMjQyNWFhYmJlM2I1NWE0OTYzYzI0YzJhOWE3OTZjODc5MTdlIn0="
+        },
+        "id": "55NnorQ0C"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "0",
+            "color": "#5db300"
+        },
+        {
+            "name": "1",
+            "color": "#e81123"
+        }
+    ],
+    "id": "n3EWCb6jK",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMDA2OTRmZmU5YWE2NmYxN2ZjMWE2ZDc5ZTk4MmVmNjEyZDMxMmJiMTA2NjdhZDhjYTQ5N2RiNzc3YWZjNWM3MGI4MjY0YzAwMzJjMDY5ZGYxZWM5ZjQyZGI3OGEyZmRlIiwiaXYiOiI5NzM1ZjFmYzYwM2RmMjBiY2RjZTAyNzZiZmZlMTA0ZDMyMDE3MmM0OTYxMmI1NWYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "a3c025089e474d9baed23f515542642a",
+    "assets": {
+        "ea0a66c481c53eadca3a67f0a471b5d8": {
+            "format": "png",
+            "id": "ea0a66c481c53eadca3a67f0a471b5d8",
+            "name": "img0.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img0.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0bd3935113846a6a4894c9395040aff": {
+            "format": "png",
+            "id": "a0bd3935113846a6a4894c9395040aff",
+            "name": "img1.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img1.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61ca0c7add11a8159bfcc7003b753530": {
+            "format": "png",
+            "id": "61ca0c7add11a8159bfcc7003b753530",
+            "name": "img10.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img10.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6f3ecde8a45942990c023a2a1dadea0": {
+            "format": "png",
+            "id": "b6f3ecde8a45942990c023a2a1dadea0",
+            "name": "img11.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img11.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d3bba7392c14730c6b8036653bafff9": {
+            "format": "png",
+            "id": "7d3bba7392c14730c6b8036653bafff9",
+            "name": "img12.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img12.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "296fa9f79284b3676aa1c270d7716459": {
+            "format": "png",
+            "id": "296fa9f79284b3676aa1c270d7716459",
+            "name": "img13.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img13.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3a4467c18a692c2b1c7e27115db9f411": {
+            "format": "png",
+            "id": "3a4467c18a692c2b1c7e27115db9f411",
+            "name": "img14.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img14.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "073f81dbed06b0581342489d8a6e80fd": {
+            "format": "png",
+            "id": "073f81dbed06b0581342489d8a6e80fd",
+            "name": "img15.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img15.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0c5c835cd59d67f3ba10e251d342301": {
+            "format": "png",
+            "id": "f0c5c835cd59d67f3ba10e251d342301",
+            "name": "img16.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img16.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "513003d388bf57ce6f41c38c1eaffca6": {
+            "format": "png",
+            "id": "513003d388bf57ce6f41c38c1eaffca6",
+            "name": "img17.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img17.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b154b0ea2af4395f55b5d3a9fd7b18f3": {
+            "format": "png",
+            "id": "b154b0ea2af4395f55b5d3a9fd7b18f3",
+            "name": "img18.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img18.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b7caf0eb12ce9e2f7985c545c47a573f": {
+            "format": "png",
+            "id": "b7caf0eb12ce9e2f7985c545c47a573f",
+            "name": "img19.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img19.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd437af3310f3bd103f7e566fa2c0215": {
+            "format": "png",
+            "id": "dd437af3310f3bd103f7e566fa2c0215",
+            "name": "img2.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img2.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5a345e914d33fc633b281a06fa5e6c4b": {
+            "format": "png",
+            "id": "5a345e914d33fc633b281a06fa5e6c4b",
+            "name": "img20.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img20.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d904037170e5e921c59a0279fd208a3": {
+            "format": "png",
+            "id": "9d904037170e5e921c59a0279fd208a3",
+            "name": "img21.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img21.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27cbf958ccb5a50c42b92f14b6668739": {
+            "format": "png",
+            "id": "27cbf958ccb5a50c42b92f14b6668739",
+            "name": "img22.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img22.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1db5452c57a5b171bfac3fced7ba3e6": {
+            "format": "png",
+            "id": "e1db5452c57a5b171bfac3fced7ba3e6",
+            "name": "img23.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img23.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b9e8d2b931db780a419669d3b365cd0": {
+            "format": "png",
+            "id": "5b9e8d2b931db780a419669d3b365cd0",
+            "name": "img24.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img24.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5bc9534d3b37f1423d75ec24c63bbda1": {
+            "format": "png",
+            "id": "5bc9534d3b37f1423d75ec24c63bbda1",
+            "name": "img25.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img25.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97fc709a6f4ab8eba6bf0f14bd3862dc": {
+            "format": "png",
+            "id": "97fc709a6f4ab8eba6bf0f14bd3862dc",
+            "name": "img26.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img26.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07c4d7dec36379ffc9a6069956b56704": {
+            "format": "png",
+            "id": "07c4d7dec36379ffc9a6069956b56704",
+            "name": "img27.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img27.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56671601addf1c192bc12f46c10e4122": {
+            "format": "png",
+            "id": "56671601addf1c192bc12f46c10e4122",
+            "name": "img28.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img28.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30154edec43c4f43c3bd74b1355a967c": {
+            "format": "png",
+            "id": "30154edec43c4f43c3bd74b1355a967c",
+            "name": "img29.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img29.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "169be8bb29411b6758d7671f618e027d": {
+            "format": "png",
+            "id": "169be8bb29411b6758d7671f618e027d",
+            "name": "img3.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img3.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7a80b3ddf4b3f779f1ffe29c5c54b844": {
+            "format": "png",
+            "id": "7a80b3ddf4b3f779f1ffe29c5c54b844",
+            "name": "img30.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img30.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d93552255b2a0b71fdee71e5f2f679c6": {
+            "format": "png",
+            "id": "d93552255b2a0b71fdee71e5f2f679c6",
+            "name": "img31.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img31.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "344236573aa9df21a61abbc8deeea4b4": {
+            "format": "png",
+            "id": "344236573aa9df21a61abbc8deeea4b4",
+            "name": "img32.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img32.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32a4b793a5eba49cf93c8c7de3650995": {
+            "format": "png",
+            "id": "32a4b793a5eba49cf93c8c7de3650995",
+            "name": "img33.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img33.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "22f4131119d38ead095fd2d4e6b66e64": {
+            "format": "png",
+            "id": "22f4131119d38ead095fd2d4e6b66e64",
+            "name": "img34.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img34.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fedf91da9ac8460606468de5437f714": {
+            "format": "png",
+            "id": "3fedf91da9ac8460606468de5437f714",
+            "name": "img35.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img35.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b064110876b2acb972f54e4c258c26f5": {
+            "format": "png",
+            "id": "b064110876b2acb972f54e4c258c26f5",
+            "name": "img36.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img36.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "242ecaa920e932b73c881220ec825599": {
+            "format": "png",
+            "id": "242ecaa920e932b73c881220ec825599",
+            "name": "img37.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img37.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d11670c1b9de6fb7ba54bee372d013c9": {
+            "format": "png",
+            "id": "d11670c1b9de6fb7ba54bee372d013c9",
+            "name": "img38.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img38.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "157dd3f26b4d1c1c0726968c7f3773e3": {
+            "format": "png",
+            "id": "157dd3f26b4d1c1c0726968c7f3773e3",
+            "name": "img39.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img39.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "adc589d73f5ae4ff2c9f146181574a3c": {
+            "format": "png",
+            "id": "adc589d73f5ae4ff2c9f146181574a3c",
+            "name": "img4.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img4.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9bacd3e99fc9af963fa1c6965d131e98": {
+            "format": "png",
+            "id": "9bacd3e99fc9af963fa1c6965d131e98",
+            "name": "img40.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img40.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "175e63705be523fe416e93be40f1ffb6": {
+            "format": "png",
+            "id": "175e63705be523fe416e93be40f1ffb6",
+            "name": "img41.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img41.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "719a965e1611ae34637c8a8f6137c968": {
+            "format": "png",
+            "id": "719a965e1611ae34637c8a8f6137c968",
+            "name": "img42.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img42.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6361d6b0c3fb592426a0339948b719a2": {
+            "format": "png",
+            "id": "6361d6b0c3fb592426a0339948b719a2",
+            "name": "img43.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img43.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0a187e9ed5da198195a6892c51a730e": {
+            "format": "png",
+            "id": "d0a187e9ed5da198195a6892c51a730e",
+            "name": "img44.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img44.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f6a75541e987b690ca1dcca10c7e01e": {
+            "format": "png",
+            "id": "6f6a75541e987b690ca1dcca10c7e01e",
+            "name": "img45.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img45.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b4d9c8ca86e31c0845386b46c1e398c": {
+            "format": "png",
+            "id": "3b4d9c8ca86e31c0845386b46c1e398c",
+            "name": "img46.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img46.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcca621fb58751f474a4f8cbb829a0d1": {
+            "format": "png",
+            "id": "bcca621fb58751f474a4f8cbb829a0d1",
+            "name": "img47.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img47.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f88d9f6cba52c0afd44cf7503a2cefc": {
+            "format": "png",
+            "id": "4f88d9f6cba52c0afd44cf7503a2cefc",
+            "name": "img48.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img48.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c84c8ab8f89ae17c45ea755561be108": {
+            "format": "png",
+            "id": "7c84c8ab8f89ae17c45ea755561be108",
+            "name": "img49.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img49.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9255adb457909d516e93c895c0e56d81": {
+            "format": "png",
+            "id": "9255adb457909d516e93c895c0e56d81",
+            "name": "img5.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img5.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3c025089e474d9baed23f515542642a": {
+            "format": "png",
+            "id": "a3c025089e474d9baed23f515542642a",
+            "name": "img50.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img50.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5db27325deb7bd5d8230e7764d61ceef": {
+            "format": "png",
+            "id": "5db27325deb7bd5d8230e7764d61ceef",
+            "name": "img51.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img51.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "498027041000d02da8ddbd6bc0029258": {
+            "format": "png",
+            "id": "498027041000d02da8ddbd6bc0029258",
+            "name": "img52.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img52.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99d9a683a9816a77a3b07d53b95c4033": {
+            "format": "png",
+            "id": "99d9a683a9816a77a3b07d53b95c4033",
+            "name": "img53.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img53.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "769ef514a49be6b0f562685f64776fec": {
+            "format": "png",
+            "id": "769ef514a49be6b0f562685f64776fec",
+            "name": "img54.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img54.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f58193d137388be0327c0f7d2fdd10fe": {
+            "format": "png",
+            "id": "f58193d137388be0327c0f7d2fdd10fe",
+            "name": "img55.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img55.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8b384266b55b9f637d585eb42fb5508": {
+            "format": "png",
+            "id": "b8b384266b55b9f637d585eb42fb5508",
+            "name": "img56.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img56.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e32526da4a05607530c338cc2c459488": {
+            "format": "png",
+            "id": "e32526da4a05607530c338cc2c459488",
+            "name": "img57.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img57.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "758a258ce92569ea08d4423690f2c08b": {
+            "format": "png",
+            "id": "758a258ce92569ea08d4423690f2c08b",
+            "name": "img58.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img58.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c503abbe9a2e565c93b3b5a80624139d": {
+            "format": "png",
+            "id": "c503abbe9a2e565c93b3b5a80624139d",
+            "name": "img59.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img59.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2765df89d27f31be7bfc53af542589b": {
+            "format": "png",
+            "id": "c2765df89d27f31be7bfc53af542589b",
+            "name": "img6.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img6.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c6aba7641a1fef163f07d3714feeb74": {
+            "format": "png",
+            "id": "7c6aba7641a1fef163f07d3714feeb74",
+            "name": "img7.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img7.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "56b7878d4c802c01be05a2a5b8bf58dd": {
+            "format": "png",
+            "id": "56b7878d4c802c01be05a2a5b8bf58dd",
+            "name": "img8.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img8.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6d14dcce93e142c81c7aaa7020c0641": {
+            "format": "png",
+            "id": "f6d14dcce93e142c81c7aaa7020c0641",
+            "name": "img9.png",
+            "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img9.png",
+            "size": {
+                "width": 151,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

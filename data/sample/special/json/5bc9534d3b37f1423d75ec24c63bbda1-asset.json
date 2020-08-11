@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "5bc9534d3b37f1423d75ec24c63bbda1",
+        "name": "img25.png",
+        "path": "file:/Users/ogata/Desktop/splatoonApp/data/sample/special/img25.png",
+        "size": {
+            "width": 151,
+            "height": 151
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "-zW-kEk7rx",
+            "type": "RECTANGLE",
+            "tags": [
+                "1"
+            ],
+            "boundingBox": {
+                "height": 146.0218201558023,
+                "width": 140.38872783846705,
+                "left": 5.998153205587393,
+                "top": 4.948603151862464
+            },
+            "points": [
+                {
+                    "x": 5.998153205587393,
+                    "y": 4.948603151862464
+                },
+                {
+                    "x": 146.38688104405446,
+                    "y": 4.948603151862464
+                },
+                {
+                    "x": 146.38688104405446,
+                    "y": 150.97042330766476
+                },
+                {
+                    "x": 5.998153205587393,
+                    "y": 150.97042330766476
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
